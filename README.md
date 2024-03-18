@@ -23,7 +23,7 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img align="center" width="400" src="https://github.com/zenobia2/zenobia2/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
+
 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
