@@ -99,9 +99,8 @@ jobs:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zenobia2&theme=PaleGoldenRod&background=eee8aa"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+
 </p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zenobia2&theme=palegoldenrod&background=eee8aa)](https://git.io/streak-stats) -->
 
